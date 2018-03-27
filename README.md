@@ -22,4 +22,4 @@ Polynomials is either an integer constant, a monomian or sum of monomians. A mon
 * `POP` - pops top polynomial
 
 ## Test script
-Runs with two arguments: name of program and directory to test.
+Runs with two arguments: name of program and directory to tests.
