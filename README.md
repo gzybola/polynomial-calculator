@@ -21,5 +21,5 @@ Polynomials is either an integer constant, a monomian or sum of monomians. A mon
 * `PRINT` - prinst top polynomial
 * `POP` - pops top polynomial
 
-## Test skript
+## Test script
 Runs with two arguments: name of program and directory to test.
