@@ -18,7 +18,7 @@ Polynomials is either an integer constant, a monomian or sum of monomians. A mon
 * `ZERO` – pushes zero polynomial to stack
 * `IS_COEFF` – checks whether top polynomial is a constant coefficient
 * `IS_ZERO` - checks whether top polynomial is a zero polynomial
-* `CLONE` = pushes a copy of top polynomial to stack
+* `CLONE` - pushes a copy of top polynomial to stack
 * `ADD` - pops two top polynomials and pushes their sum to stack
 * `MUL` - pops two top polynomials and pushes their product to stack
 * `NEG` - pops top polynomial and pushes its negation to stack
@@ -32,3 +32,6 @@ Polynomials is either an integer constant, a monomian or sum of monomians. A mon
 
 ## Test script
 Runs with two arguments: name of program and directory to tests.
+
+
+Project made for classes at University of Warsaw.
