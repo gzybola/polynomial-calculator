@@ -34,4 +34,4 @@ Polynomials is either an integer constant, a monomian or sum of monomians. A mon
 Runs with two arguments: name of program and directory to tests.
 
 
-Project made for classes at University of Warsaw.
+Project was made for classes at University of Warsaw.
